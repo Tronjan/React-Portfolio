@@ -8,7 +8,7 @@ export const Hero = () => {
             <p className={styles.description}>Loren ipsum dire sit</p>
             <a href="mailto:niranjandubule10@gmail.com" className={styles.contactBtn}>Contact Me</a>
         </div>
-        <img src={getImageUrl("hero/heroImage.png")} alt="Hero Image" className={styles.heroImg} />
+        <img src={getImageUrl("hero/niranjan.png")} alt="Hero Image" className={styles.heroImg} />
         <div className={styles.topBlur} />
         <div className={styles.bottomBlur} />
      </setion>
