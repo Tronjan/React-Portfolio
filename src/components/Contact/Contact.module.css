@@ -59,7 +59,17 @@
         align-items: center;
     }
 
+    .text p{
+        font-size: 20px;
+    }
+
     .links{
         align-items: center;
+    }
+
+    .link a{
+        display: flex;
+        flex-direction: column;
+        font-size: 20px;
     }
 }

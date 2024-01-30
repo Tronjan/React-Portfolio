@@ -118,4 +118,8 @@
         width: 100%;
         gap: 9px;
     }
+
+    .historyItem img{
+       display: none;
+    }
 }
