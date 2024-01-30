@@ -27,7 +27,8 @@ export const About = () => {
                     <h3>Software Engineer - Backend Developer</h3>
                     <p>
                         I have experience developing fast and optimised backend systems 
-                        and APIs
+                        and APIs. Contributed to healthcare system features, 
+                        showcasing expertise in C# .NET Core, REST, and third part Integration. 
                     </p>
                 </div>
             </li>
@@ -36,7 +37,8 @@ export const About = () => {
                 <div className={styles.aboutItemText}>
                     <h3>Frontend Developer</h3>
                     <p>
-                        I have experience developing optimised forntend websites
+                        I have experience developing optimised forntend websites. Learning ReactJs
+                        while creating various projects
                     </p>
                 </div>
             </li>
