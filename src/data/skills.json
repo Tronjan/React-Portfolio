@@ -16,6 +16,10 @@
       "imageSrc": "skills/dotnet.png"
     },
     {
+      "title": "Azure",
+      "imageSrc": "skills/azure.png"
+    },
+    {
       "title": "Rest API",
       "imageSrc": "skills/api.png"
     },
@@ -30,5 +34,9 @@
     {
       "title": "SAASU",
       "imageSrc": "skills/Saasu.png"
+    },
+    {
+      "title": "FHIR",
+      "imageSrc": "skills/FHIR.png"
     }
   ]
