@@ -1,26 +1,34 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Data Analysis in Python",
+      "imageSrc": "projects/data-analysis.png",
+      "description": "Analysis of Which Social Media Millennials Care About Most.",
+      "skills": ["Analysis", "Pandas", "Numpy"],
+      "demo": "https://github.com/Tronjan/Analysis-of-Which-Social-Media-Millennials-Care-About-Most/blob/main/notebook.ipynb",
+      "source": "https://github.com/Tronjan/Analysis-of-Which-Social-Media-Millennials-Care-About-Most"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "CO2 Consumption Analysis",
+      "imageSrc": "projects/CO2.png",
+      "description": "Analysis of CO2 consumption in different continents.",
+      "skills": ["Tableau", "Data Viz", "Data Analysis"],
+      "demo": "https://public.tableau.com/shared/45B3M49JG?:display_count=n&:origin=viz_share_link",
+      "source": "https://github.com/Tronjan/Analysis-of-CO2-consumption-in-the-world"
     },
     {
-      "title": "Project C",
+      "title": "Social Media Usage",
+      "imageSrc": "projects/data-analysis.png",
+      "description": "Analysis of social media usage during early stages of COVID-19.",
+      "skills": ["Python", "SPSS", "Minitab", "Prediction"],
+      "demo": "https://github.com/Tronjan/Social-Media-Analysis-During-Early-Stages-of-Covid-19/blob/main/Report.pdf",
+      "source": "https://github.com/Tronjan/Social-Media-Analysis-During-Early-Stages-of-Covid-19"
+    },
+    {
+      "title": "CV Builder",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "This is a CV Builder to genereate automated CVs usin. [Ongoing]",
+      "skills": ["C#", "ReactJs", "SQL"],
+      "demo": "#",
+      "source": "https://github.com/Tronjan/CvBuilderDev"
     }
   ]
