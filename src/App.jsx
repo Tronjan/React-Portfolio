@@ -5,6 +5,7 @@ import { Experience } from './components/Experience/Experience'
 import { Hero } from './components/Hero/Hero'
 import { Navbar } from './components/Navbar/Navbar'
 import { Projects } from './components/Projects/Projects'
+import {Certificates} from './components/Certificates/Certificates'
 import { Routes, Route } from 'react-router-dom'
 
 
@@ -20,6 +21,8 @@ function App() {
         <Route path='/#experience' element={<Experience/>} />
         <Route path='/projects' element={<><Projects/>,<Contact/></>} />
         <Route path='#contact' element={<Contact/>} />
+        <Route path='/certificates' element={<><Certificates/>,<Contact/></>} />
+        
       </Routes>
       {/* <Hero/>
       <About />
