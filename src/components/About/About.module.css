@@ -64,7 +64,11 @@
 }
 
 .aboutItem p{
-    font-size: 22px;
+    font-size: 18px;
+}
+
+.lottieImage{
+    width: 200px;
 }
 
 
