@@ -2,16 +2,26 @@
     {
       "title": "Introduction to Tableau",
       "imageSrc": "certificates/tableau.png",
-      "source": "https://www.linkedin.com/in/niranjan-dubule/overlay/1707953242455/single-media-viewer/?profileId=ACoAACZQmJ4BDhEgsDUZWWZ0-3bCEXjjFTDv0Ww"
+      "source": "https://www.datacamp.com/completed/statement-of-accomplishment/course/c83fe8696bb3992592ff4e3d6eab6822a424cb96"
     },
     {
       "title": "Analyzing Data in Tableau",
       "imageSrc": "certificates/da.png",
-      "source": "https://www.linkedin.com/in/niranjan-dubule/details/certifications/1707953330562/single-media-viewer/?profileId=ACoAACZQmJ4BDhEgsDUZWWZ0-3bCEXjjFTDv0Ww"
+      "source": "https://www.datacamp.com/completed/statement-of-accomplishment/course/4bbf06661b9088f2353e07eacabce8d998e208e8"
     },
     {
       "title": "Understanding Data Visualization",
       "imageSrc": "certificates/dataviz.png",
-      "source": "https://www.linkedin.com/in/niranjan-dubule/details/certifications/1707953380705/single-media-viewer/?profileId=ACoAACZQmJ4BDhEgsDUZWWZ0-3bCEXjjFTDv0Ww"
+      "source": "https://www.datacamp.com/completed/statement-of-accomplishment/course/5c3c5e2a32a2314faa5c2d497d4c06383bcb6f22"
+    },
+    {
+      "title": "Python for Data Analysis",
+      "imageSrc": "certificates/pythoncer.png",
+      "source": "https://www.datacamp.com/completed/statement-of-accomplishment/course/b559679a942c855b44c8356bf74d2173ef290060"
+    },
+    {
+      "title": "Creating Dashboards in Tableau",
+      "imageSrc": "certificates/dashboardsintableau.png",
+      "source": "https://www.datacamp.com/completed/statement-of-accomplishment/course/ba66f6a71247230ea0e87777672febef73c2c5bb"
     }
   ]
