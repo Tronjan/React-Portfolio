@@ -23,5 +23,10 @@
       "title": "Creating Dashboards in Tableau",
       "imageSrc": "certificates/dashboardsintableau.png",
       "source": "https://www.datacamp.com/completed/statement-of-accomplishment/course/ba66f6a71247230ea0e87777672febef73c2c5bb"
+    },
+    {
+      "title": "Case Study: Analysing Customer Churn in Tableau",
+      "imageSrc": "certificates/churn.png",
+      "source": "https://www.datacamp.com/completed/statement-of-accomplishment/course/cbbf53a7d351554b15dd5009a082d0da506563fd"
     }
   ]
