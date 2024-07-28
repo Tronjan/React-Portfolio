@@ -5,6 +5,17 @@ import { getImageUrl } from '../../utils';
 
 export const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false);
+    const [fix, setfix] = useState(false);
+
+    function setFixed() {
+        if(window.scrollY >= 400){
+            setfix(true)
+        }else{
+            setfix(false)
+        }
+    }
+    window.addEventListener(scroll, setFixed)
+
   return (
    <nav className={styles.navbar}> 
     <a className={styles.title} href="/">Portfolio</a>
